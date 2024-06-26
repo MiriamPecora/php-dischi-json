@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Folie à Deux",
+        "artist": "Fall Out Boy",
+        "year": 2008,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/4/47/Fobfolie.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Inside",
+        "artist": "Mother Mother",
+        "year": 2021,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/5/5c/Inside_%282021%29_cover_art.jpg"
+    },
+    {
+        "id": 3,
+        "title": "AM",
+        "artist": "Arctic Monkeys",
+        "year": 2013,
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg"
+    },
+    {
+        "id": 4,
+        "title": "#4",
+        "artist": "Ling Tosite Sigure",
+        "year": 2005,
+        "cover": "https://cdns-images.dzcdn.net/images/cover/016b17789800329defa5f288315554c7/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Lateralus",
+        "artist": "Tool",
+        "year": 2001,
+        "cover": "https://i.ebayimg.com/images/g/JaYAAOSwsJJiOI-d/s-l1600.jpg"
+    },
+    {
+        "id": 6,
+        "title": "(III)",
+        "artist": "Crystal Castles",
+        "year": 2012,
+        "cover": "https://media.pitchfork.com/photos/5929b4d8c0084474cd0c2327/1:1/w_450%2Ch_450%2Cc_limit/75b8c461.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+header { 
+    background-color: rgb(18, 18, 32);
+    height: 65px;
+}
+
+main {
+    background-color: rgb(41, 41, 61);
+    min-width: 100%;
+}
+
+.white-txt {
+    color: white;
+}
